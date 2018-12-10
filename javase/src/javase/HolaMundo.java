@@ -147,7 +147,7 @@ public class HolaMundo {
 
 
 
-//break o continue´
+//break o continueï¿½
 
 	
 //break cuando lo encuetnra sale del bucle
@@ -172,7 +172,7 @@ public class HolaMundo {
 //	
 //}
 //	recoge todo
-//	for(String texto:arr) { JAVA·5
+//	for(String texto:arr) { JAVAï¿½5
 // 	}
 //	
 // 	String [] meses= {"Enero","Febrero"};
@@ -215,7 +215,7 @@ public class HolaMundo {
 //COLECCIONES ArrayList Java5
 //utiliza varios arrays sueltos para "guardar los pedazos"
 //ArrayList<String> textos= new ArrayList<String>();//declaracion en java 5
-//ArrayList<String> textos= new ArrayList<>() //Java 8ç
+//ArrayList<String> textos= new ArrayList<>() //Java 8ï¿½
 //textos.add("uno");
 //textos.add("dos");
 // .remove(indice)
